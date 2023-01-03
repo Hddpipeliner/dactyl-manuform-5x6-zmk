@@ -40,7 +40,7 @@
 
         raise_layer {
             bindings = <
-                &trans  &trans &trans &trans &trans &trans                &trans &trans &trans &kp KP_DIVIDE  &kp MULTIPLY &kp BSPC
+                &trans  &trans &trans &trans &trans &trans                &trans &trans &trans &kp DIVIDE  &kp MULTIPLY &kp BSPC
                 &trans  &trans &trans &trans &trans &trans                &trans &kp N7    &kp N8    &kp N9    &kp MINUS   &kp K_VOL_UP
                 &trans  &trans &trans &trans &trans &trans                &trans &kp N4    &kp N5    &kp N6    &kp PLUS    &kp K_VOL_DN
                 &trans  &trans &trans &trans &trans &trans                &trans &kp N1    &kp N2    &kp N3    &kp RET     &kp K_MUTE
